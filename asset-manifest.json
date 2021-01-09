@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/myblog/static/css/main.664d9eb0.chunk.css",
-    "main.js": "/myblog/static/js/main.3d5f33b0.chunk.js",
-    "main.js.map": "/myblog/static/js/main.3d5f33b0.chunk.js.map",
-    "runtime-main.js": "/myblog/static/js/runtime-main.f15771ca.js",
-    "runtime-main.js.map": "/myblog/static/js/runtime-main.f15771ca.js.map",
-    "static/js/2.b03036e8.chunk.js": "/myblog/static/js/2.b03036e8.chunk.js",
-    "static/js/2.b03036e8.chunk.js.map": "/myblog/static/js/2.b03036e8.chunk.js.map",
-    "static/js/3.b62e8dca.chunk.js": "/myblog/static/js/3.b62e8dca.chunk.js",
-    "static/js/3.b62e8dca.chunk.js.map": "/myblog/static/js/3.b62e8dca.chunk.js.map",
-    "index.html": "/myblog/index.html",
-    "static/css/main.664d9eb0.chunk.css.map": "/myblog/static/css/main.664d9eb0.chunk.css.map",
-    "static/js/2.b03036e8.chunk.js.LICENSE.txt": "/myblog/static/js/2.b03036e8.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/myblog/static/media/YuseiMagic-Regular.8d761e28.ttf",
-    "static/media/chika.6e1fb370.jpg": "/myblog/static/media/chika.6e1fb370.jpg",
-    "static/media/facebook.d0931829.svg": "/myblog/static/media/facebook.d0931829.svg",
-    "static/media/menu.3c0618ae.svg": "/myblog/static/media/menu.3c0618ae.svg",
-    "static/media/menu_open.cb530e3e.svg": "/myblog/static/media/menu_open.cb530e3e.svg",
-    "static/media/photo.fccb3afe.jpg": "/myblog/static/media/photo.fccb3afe.jpg",
-    "static/media/violet.05bdae7d.png": "/myblog/static/media/violet.05bdae7d.png"
+    "main.css": "/my-blog/static/css/main.eb2aea7f.chunk.css",
+    "main.js": "/my-blog/static/js/main.fd9a29e4.chunk.js",
+    "main.js.map": "/my-blog/static/js/main.fd9a29e4.chunk.js.map",
+    "runtime-main.js": "/my-blog/static/js/runtime-main.ee141d30.js",
+    "runtime-main.js.map": "/my-blog/static/js/runtime-main.ee141d30.js.map",
+    "static/js/2.ce92f836.chunk.js": "/my-blog/static/js/2.ce92f836.chunk.js",
+    "static/js/2.ce92f836.chunk.js.map": "/my-blog/static/js/2.ce92f836.chunk.js.map",
+    "static/js/3.b62e8dca.chunk.js": "/my-blog/static/js/3.b62e8dca.chunk.js",
+    "static/js/3.b62e8dca.chunk.js.map": "/my-blog/static/js/3.b62e8dca.chunk.js.map",
+    "index.html": "/my-blog/index.html",
+    "static/css/main.eb2aea7f.chunk.css.map": "/my-blog/static/css/main.eb2aea7f.chunk.css.map",
+    "static/js/2.ce92f836.chunk.js.LICENSE.txt": "/my-blog/static/js/2.ce92f836.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/my-blog/static/media/YuseiMagic-Regular.8d761e28.ttf",
+    "static/media/chika.6e1fb370.jpg": "/my-blog/static/media/chika.6e1fb370.jpg",
+    "static/media/facebook.d0931829.svg": "/my-blog/static/media/facebook.d0931829.svg",
+    "static/media/menu.3c0618ae.svg": "/my-blog/static/media/menu.3c0618ae.svg",
+    "static/media/menu_open.cb530e3e.svg": "/my-blog/static/media/menu_open.cb530e3e.svg",
+    "static/media/photo.fccb3afe.jpg": "/my-blog/static/media/photo.fccb3afe.jpg",
+    "static/media/violet.05bdae7d.png": "/my-blog/static/media/violet.05bdae7d.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.f15771ca.js",
-    "static/js/2.b03036e8.chunk.js",
-    "static/css/main.664d9eb0.chunk.css",
-    "static/js/main.3d5f33b0.chunk.js"
+    "static/js/runtime-main.ee141d30.js",
+    "static/js/2.ce92f836.chunk.js",
+    "static/css/main.eb2aea7f.chunk.css",
+    "static/js/main.fd9a29e4.chunk.js"
   ]
 }
